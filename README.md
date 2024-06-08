@@ -9,21 +9,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuadmhnr&label=Profile%20views&color=0e75b6&style=flat" alt="fuadmhnr" /> </p>
 
-<p align="left"> <a href="https://twitter.com/yaelahad" target="blank"><img src="https://img.shields.io/instagram/follow/fuadmhnr?logo=instagram&style=for-the-badge" alt="username logo" /></a> </p>
-
 - 🔭 I’m currently working on **React Inertia Blogs**
 
 - 🌱 I’m currently learning **React Typescript**
 
 - 💬 Ask me about **Laravel , Node**
 
-- 📫 How to reach me **fuadmuhammadn@gmail.com**
+- 📫 How to reach me **fuadmhnr@gmail.com**
 
 - ⚡ Fun fact **I am music addict**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yaelahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yaelahad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fuadmhnr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fuadmhnr" height="30" width="40" /></a>
 <a href="https://instagram.com/fuadmhnr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fuadmhnr" height="30" width="40" /></a>
 </p>
